@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on discord bot development<br>🤝 I’m looking for help with Java-Script<br>🌱 I’m currently learning Java-Script<br>⚡ Fun fact: Bufaloyu yemek
+🔭 I’m currently working on discord bot development<br>🤝 I’m looking for help with Java-Script<br>🌱 I’m currently learning Java-Script<br>⚡ Fun fact: Nothing
 
 
 ## 🌐 Socials:
